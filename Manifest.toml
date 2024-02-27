@@ -2,7 +2,7 @@
 
 julia_version = "1.10.0"
 manifest_format = "2.0"
-project_hash = "6a6fd7f7353fcb6e7aef56167ddc355f2a07a1e5"
+project_hash = "1b4752887b47e95b2f32c19252d3bd8dcf884a8f"
 
 [[deps.AbstractFFTs]]
 deps = ["LinearAlgebra"]
@@ -1040,6 +1040,11 @@ deps = ["Artifacts", "JLLWrappers", "Libdl", "Wayland_jll", "Xorg_libX11_jll", "
 git-tree-sha1 = "2f0486047a07670caad3a81a075d2e518acc5c59"
 uuid = "a44049a8-05dd-5a78-86c9-5fde0876e88c"
 version = "1.3.243+0"
+
+[[deps.Waveforms]]
+git-tree-sha1 = "532113cb46e2da7019672f7879b97ada3edd3dc6"
+uuid = "cb13b1c6-351e-5134-b3ad-d6a530956a82"
+version = "0.1.1"
 
 [[deps.Wayland_jll]]
 deps = ["Artifacts", "EpollShim_jll", "Expat_jll", "JLLWrappers", "Libdl", "Libffi_jll", "Pkg", "XML2_jll"]
